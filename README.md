@@ -4,7 +4,6 @@ I'm 12knights!
 
 - 📜 I’m currently experienced in Java.
 - 🔨 I'm currently working on Mineday
-- 📫 You can contact me on Discord by adding 12knights#6447
 
 *I mostly do private work so don't expect to see much public commits from me*
 
